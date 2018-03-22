@@ -1,6 +1,5 @@
 import React, { Component, Fragment } from "react";
 import { render } from "react-dom";
-import Hello from "./Hello";
 import { number, string } from "prop-types";
 
 const styles = {
